@@ -1,4 +1,3 @@
-# ki-exchange.github.io
+ki-exchange.github.io
 
-# this site is under construction 
 www.di-tommaso.site
