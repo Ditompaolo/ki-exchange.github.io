@@ -3,4 +3,4 @@ Paolo Di Tommaso
 Schönenwerderstrasse 31
 CH-5036 Oberentfelden
 mail: info@di-tommaso.site
-link: ki-exchange.github.io
+[zurück zur Site link:](https://ditompaolo.github.io/ki-exchange.github.io/)
