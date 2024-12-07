@@ -34,17 +34,16 @@
         </div>
     </div>
 </nav>
-    <div class="container my-4 ">
-    <div class="row justify-content-center">
-        <div id="content"></div>
 
-        <script>
-            const files = ['beschreibung.md', 'tuchschmidhuus.md'];
+    <div id="content"></div>
+
+    <script>
+        const files = ['beschreibung.md', 'tuchschmidhuus.md'];
     
-            function loadMarkdown(file) {
-                return $.ajax({
-                    url: file,
-                    dataType: 'text'
+        function loadMarkdown(file) {
+            return $.ajax({
+                url: file,
+                dataType: 'text'
                 });
             }
     
@@ -56,8 +55,7 @@
                 .catch(error => console.error('Fehler beim Laden der Markdown-Dateien:', error));
         </script> 
         
-    </header>
-    <main>
+    
         <img src="im-beschr/20240914_Tuchschmidhuus.png" alt="Logo">
         <script>
             // Funktion zum Laden und Anzeigen des Markdown-Inhalts
@@ -73,12 +71,12 @@
             // Laden Sie den Markdown-Inhalt, wenn die Seite geladen ist
             window.onload = loadMarkdown;
         </script> 
-        <nav
+    <nav
     </ul>
-            <li><a href="Impressum.md">Impressum</a></li>
-        </ul>
-        </nav>
-    </main>
+        <li><a href="Impressum.md">Impressum</a></li>
+    </ul>
+    </nav>
+    
     <footer>
         <p>&copy; 2024 KI-Exchange</p>
         </footer>
