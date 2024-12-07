@@ -39,43 +39,49 @@
 </header>
 <main>
     </nav>
-   
+    <div class="container my-4 ">
+        <div class="row justify-content-center">
+            <div class="col-lg mx-2 align-self-center">
+                <div class="my-3">
+                    < <script>
+                        const files = ['beschreibung.md', 'tuchschmidhuus.md'];
+                
+                        function loadMarkdown(file) {
+                            return $.ajax({
+                                url: file,
+                                dataType: 'text'
+                            });
+                        }
+                
+                        Promise.all(files.map(loadMarkdown))
+                            .then(contents => {
+                                const html = contents.map(content => marked.parse(content)).join('<hr>');
+                                $('#content').html(html);
+                                })
+                                .catch(error => console.error('Fehler beim Laden der Markdown-Dateien:', error));
+                    </script> 
+                    
+                
+                        <img src="im-beschr/20240914_Tuchschmidhuus.png" alt="tuchschmidhuus" width="300" height="200">
+                        <script>
+                            // Funktion zum Laden und Anzeigen des Markdown-Inhalts
+                            function loadMarkdown() {
+                            fetch('tuchschmidhuus.md')
+                                    .then(response => response.text())
+                                    .then(text => {
+                                    document.getElementById('content').innerHTML = marked.parse(text);
+                                    })
+                                    .catch(error => console.error('Fehler beim Laden der Markdown-Datei:', error));
+                            }
+                
+                            // Laden Sie den Markdown-Inhalt, wenn die Seite geladen ist
+                            window.onload = loadMarkdown;
+                    </script> 
+                </div>
+            </div> 
         <div id="content"></div>
 
-        <script>
-            const files = ['beschreibung.md', 'tuchschmidhuus.md'];
-    
-            function loadMarkdown(file) {
-                return $.ajax({
-                    url: file,
-                    dataType: 'text'
-                });
-            }
-    
-            Promise.all(files.map(loadMarkdown))
-                .then(contents => {
-                    const html = contents.map(content => marked.parse(content)).join('<hr>');
-                    $('#content').html(html);
-                    })
-                    .catch(error => console.error('Fehler beim Laden der Markdown-Dateien:', error));
-        </script> 
-        
-    
-            <img src="im-beschr/20240914_Tuchschmidhuus.png" alt="tuchschmidhuus" width="300" height="200">
-            <script>
-                // Funktion zum Laden und Anzeigen des Markdown-Inhalts
-                function loadMarkdown() {
-                fetch('tuchschmidhuus.md')
-                        .then(response => response.text())
-                        .then(text => {
-                        document.getElementById('content').innerHTML = marked.parse(text);
-                        })
-                        .catch(error => console.error('Fehler beim Laden der Markdown-Datei:', error));
-                }
-    
-                // Laden Sie den Markdown-Inhalt, wenn die Seite geladen ist
-                window.onload = loadMarkdown;
-        </script> 
+       
     </main>
     <nav
     <ul>
