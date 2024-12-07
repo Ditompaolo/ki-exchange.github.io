@@ -50,11 +50,11 @@
                     url: file,
                     dataType: 'text'
                 });
-                }
+            }
     
-                Promise.all(files.map(loadMarkdown))
-                    .then(contents => {
-                        const html = contents.map(content => marked.parse(content)).join('<hr>');
+            Promise.all(files.map(loadMarkdown))
+                .then(contents => {
+                    const html = contents.map(content => marked.parse(content)).join('<hr>');
                     $('#content').html(html);
                     })
                     .catch(error => console.error('Fehler beim Laden der Markdown-Dateien:', error));
