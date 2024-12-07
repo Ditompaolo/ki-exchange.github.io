@@ -1,0 +1,24 @@
+<style>
+        body {
+            font-family: Telegraf;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        nav {
+            background-color: #0663A1;
+            padding: 10px;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
