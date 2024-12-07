@@ -1,0 +1,3 @@
+Tuchschmidhuus
+
+Das Tuchschmidhuus Komitee hat sich mit viel Enthusiasmus und Tatkraft formiert, um das kulturelle und soziale Leben in Oberentfelden zu bereichern. Die Eventplanung läuft auf Hochtouren und die ersten Veranstaltungen wurden bereits erfolgreich durchgeführt. Mit einer Vielzahl an Ideen und engagierten Mitgliedern setzt das Komitee alles daran, unvergessliche Erlebnisse für alle Interessierten zu schaffen. Freuen Sie sich auf ein abwechslungsreiches Programm, das in den kommenden Monaten noch viele spannende Events für Jung und Alt bereithält!
