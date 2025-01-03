@@ -8,7 +8,7 @@
     <title>Markdown Anzeige</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <title>KI-exchange, KI/AI Austauschforum</title>
+    <title>KI-exchange, Google-Umfrage</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
