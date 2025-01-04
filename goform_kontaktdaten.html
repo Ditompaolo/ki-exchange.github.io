@@ -35,7 +35,7 @@
     </nav>
     </header>
     <h1>Mein Google-Formular</h1>
-    <iframe src="https://docs.google.com/forms/d/e/<iframe src="<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc52CQriOR0DiYYTraoFGqeF2cyUcJt2L0XDHxop9AVus35nQ/viewform?embedded=true" width="640" height="1051" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>/viewform?embedded=true" width="640" height="959" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>/viewform?embedded=true"></iframe>
+    <iframe src="https://docs.google.com/forms/d/e/<iframe src="<iframe src="https://docs.google.com/forms/d/13a-3H141T2XXf3bOBnJJApaeMSSuped4WbY1ginzJA0/edit" width="640" height="1051" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>/viewform?embedded=true" width="640" height="959" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>/viewform?embedded=true"></iframe>
     <a href="index.html" class="back-link">Zurück zur Hauptseite</a>
 </body>
 </html>
