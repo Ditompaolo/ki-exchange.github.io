@@ -26,8 +26,8 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item">
-                    <a class="window.open('https://docs.google.com/forms/d/13a-3H141T2XXf3bOBnJJApaeMSSuped4WbY1ginzJA0/edit', '_blank')" href="#">Google-Umfrage</a>
+                <li class="nav-item"> 
+                    <a class="nav-link" href="index.html">Haupseite</a>
                 </li>
             </ul>
         </div>
