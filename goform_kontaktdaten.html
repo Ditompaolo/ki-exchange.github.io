@@ -34,31 +34,12 @@
     </div>
     </nav>
     </header>
-    <h1>Mein Google-Formular</h1>
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScVbvbw_LQnkEY0uoKQdSqtyZN1yTKkoM1QiTgSGDJuV9MlxA/viewform?usp=sharing" width="640" height="1051" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>/viewform?embedded=true" width="640" height="959" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>/viewform?embedded=true"></iframe>
-    <a href="index.html" class="back-link">Zurück zur Hauptseite</a>
     <main>
     </nav>
     <div class="container my-4 ">
         <div class="row justify-content-center">
             <div class="col-lg mx-2 align-self-center">
                 <div class="my-3">
-                    <script>
-                        const files = ['beschreibung.md', 'tuchschmidhuus.md'];
-                
-                        function loadMarkdown(file) {
-                            return $.ajax({
-                                url: file,
-                                dataType: 'text'
-                            });
-                        }
-                                        Promise.all(files.map(loadMarkdown))
-                            .then(contents => {
-                                const html = contents.map(content => marked.parse(content)).join('<hr>');
-                                $('#content').html(html);
-                                })
-                                .catch(error => console.error('Fehler beim Laden der Markdown-Dateien:', error));
-                    </script> 
                         <img src="im-beschr/20240914_Tuchschmidhuus.png" alt="tuchschmidhuus" width="300" height="200">
                         <script>
                             // Funktion zum Laden und Anzeigen des Markdown-Inhalts
@@ -77,18 +58,8 @@
             </div> 
         <div id="content"></div>
     </nav>
-    <div class="container my-4 ">
-        <div class="row justify-content-center">
-            <div class="col-lg mx-2 align-self-center">
-            <p>Ihre Meinung ist mir wichtig! Daher bitte ich Sie höflich mir Ihr Feedback mittels Umfrage zu geben.</p>
-            <p>Klicken Sie dafür auf den Button "Umfrage öffnen":</p>
-                <button onclick="window.open('https://docs.google.com/forms/d/13a-3H141T2XXf3bOBnJJApaeMSSuped4WbY1ginzJA0/edit', '_blank')">
-                    Umfrage öffnen
-                </button>
-            <br><br>
-            <p>Für mehr Informationen schreiben Sie eine Mail an:</p><address><a href="mailto:info@di-tommaso.site">info@di-tommaso.site</a><br /></address>
-            </div>
-        </div> 
+<h1>Mein Google-Formular</h1>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScVbvbw_LQnkEY0uoKQdSqtyZN1yTKkoM1QiTgSGDJuV9MlxA/viewform?usp=sharing" width="640" height="1051" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>/viewform?embedded=true" width="640" height="959" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>/viewform?embedded=true"></iframe>
     <footer>
         <div class="container my-4 ">
             <div class="row justify-content-center">
