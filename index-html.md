@@ -57,7 +57,7 @@
                                 .catch(error => console.error('Fehler beim Laden der Markdown-Dateien:', error));
                     </script> 
                         <img src="im-beschr/20240914_Tuchschmidhuus.png" alt="tuchschmidhuus" width="300" height="200">
-                        <script>
+                    <script>
                             // Funktion zum Laden und Anzeigen des Markdown-Inhalts
                             function loadMarkdown() {
                             fetch('tuchschmidhuus.md')
@@ -74,18 +74,6 @@
             </div> 
         <div id="content"></div>
     </nav>
-    <div class="container my-4 ">
-        <div class="row justify-content-center">
-            <div class="col-lg mx-2 align-self-center">
-            <p>Ihre Meinung ist mir wichtig! Daher bitte ich Sie höflich mir Ihr Feedback mittels Umfrage zu geben.</p>
-            <p>Klicken Sie dafür auf den Button "Umfrage öffnen":</p>
-                <button onclick="window.open('https://docs.google.com/forms/d/13a-3H141T2XXf3bOBnJJApaeMSSuped4WbY1ginzJA0/edit', '_blank')">
-                    Umfrage öffnen
-                </button>
-            <br><br>
-            <p>Für mehr Informationen schreiben Sie eine Mail an:</p><address><a href="mailto:info@di-tommaso.site">info@di-tommaso.site</a><br /></address>
-            </div>
-        </div> 
     <footer>
         <div class="container my-4 ">
             <div class="row justify-content-center">
