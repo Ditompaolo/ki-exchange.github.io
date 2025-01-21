@@ -2,7 +2,9 @@
 
 Am 8. Januar 2025 ging es los – und es geht mit vollem Takt weiter! 
 Haben Sie ein Thema rund um Künstliche Intelligenz, das Sie beschäftigt?
-👇 
+
+👇
+
 Dann kommen Sie zum KI-Treffpunkt und bringen Sie Ihre Fragen oder Erkenntnisse mit! Gemeinsam werden wir spannende Fragen beleuchten und neue Perspektiven entdecken.
 
 🎯 Nutzen Sie die Chance – es lohnt sich für Sie! 🎯
