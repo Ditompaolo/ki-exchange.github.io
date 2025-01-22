@@ -1,17 +1,11 @@
-**Ein Blick zurück – und eine spannende Einladung in die Zukunft!**
+**Einladung zur Bewertung des KI-Treffpunkts vom 12. Februar 2025**
 
-Am 8. Januar 2025 ging es los – und es geht mit vollem Takt weiter! 
-Haben Sie ein Thema rund um Künstliche Intelligenz, das Sie beschäftigt?
+Liebe Teilnehmerinnen und Teilnehmer,
 
-👇
+vielen Dank, dass Sie beim KI-Treffpunkt waren! Ich hoffe, die Veranstaltung war für Sie ebenso inspirierend wie für mich. Um zukünftige Events noch besser auf Ihre Bedürfnisse abzustimmen, bitte ich Sie, Ihre Eindrücke mit mir zu teilen. Ihre Rückmeldungen sind entscheidend für die Weiterentwicklung der Veranstaltung und werden ausschließlich für diese genutzt.
 
-Dann kommen Sie zum KI-Treffpunkt und bringen Sie Ihre Fragen oder Erkenntnisse mit! Gemeinsam werden wir spannende Fragen beleuchten und neue Perspektiven entdecken.
+Ich freue mich sehr auf Ihr Feedback und danke Ihnen nochmals herzlich für Ihre Teilnahme!
 
-🎯 Nutzen Sie die Chance – es lohnt sich für Sie! 🎯
-
-**Jetzt vormerken: Nächste Veranstaltung am Mittwoch, den 12. Februar 2025!**
-
-Aufbauend auf dem erfolgreichen Format lade ich Sie herzlich zur nächsten Veranstaltung ein. Erneut werden wir spannende Einblicke in die neuesten Entwicklungen und Anwendungsfelder der Künstlichen Intelligenz bieten. Im Mittelpunkt stehen diesmal die Interessen der Teilnehmenden. Zusätzlich werfen wir einen praxisorientierten Blick auf das Tool „Claude“.
-
-**Seien Sie dabei!**  
-Lassen Sie uns gemeinsam die Zukunft gestalten, voneinander lernen und neue Kontakte knüpfen. Wir freuen uns auf einen inspirierenden Abend voller Innovation, Wissen und Austausch!
+Mit besten Grüßen,  
+Paolo Di Tommaso 
+Veranstalter des KI-Treffpunkts im "Tuchschmidhuus" Oberentfelden
