@@ -2,4 +2,4 @@
 
 Künstliche Intelligenz bewegt Sie und möchten weiter inspiriert werden!
 
-Teilen sie Ihre Kontaktdaten mit, um künftig Informationen zu bekommen.
+Teilen Sie Ihre Kontaktdaten mit, um künftig Informationen zu bekommen.
