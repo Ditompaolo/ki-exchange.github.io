@@ -8,6 +8,7 @@ Die Teilnehmer:innen hatten Fragen zu Themen wie Machine Learning, Robotik und U
 
 Im Verlauf der Gespräche wuchs das Interesse zunehmend, sodass am Ende alle eine erneute Teilnahme am nächsten KI-Treffpunkt in Erwägung zogen.🚀
 
-🎯 Haben Sie auch Fragen, die Sie in unserer Gruppe besprechen möchten? Dann kommen Sie zum nächsten Event! Die Community freut sich auf Sie! 🎯
+Haben Sie auch Fragen, die Sie in unserer Gruppe besprechen möchten?
+💡 Dann kommen Sie zum nächsten Event! Die Community freut sich auf Sie!
 
 #KI #KünstlicheIntelligenz #Innovation #Perplexity #Networking #Community #Erfahrungsaustausch
