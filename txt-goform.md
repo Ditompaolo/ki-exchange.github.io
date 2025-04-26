@@ -1,4 +1,4 @@
-**Einladung zur Bewertung des KI-Treffpunkts vom 12. Februar 2025**
+**Einladung zur Bewertung des KI-Treffpunkts vom 9. April 2025**
 
 Liebe Teilnehmerinnen und Teilnehmer,
 
