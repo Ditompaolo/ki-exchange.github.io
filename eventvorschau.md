@@ -1,8 +1,8 @@
 ✨ letzter Event des KI-Treffpunkt ✨
 
-📅 Mittwoch, den 11. Juni 2025<br><br>
-🕕 19 bis 20:30 Uhr<br><br>
-📍 Ort: wie gewohnt, Tuchschmidhuus, Dorfstrasse 13, 5036 Oberentfelden<br><br>
+📅 Mittwoch, den 11. Juni 2025<br>
+🕕 19 bis 20:30 Uhr<br>
+📍 Ort: wie gewohnt, Tuchschmidhuus, Dorfstrasse 13, 5036 Oberentfelden<br>
 
 Die Community kommt ein letztes Mal in diesem Format zusammen – für einen Abend voller Inspiration, Rückblick und Ausblick. Noch einmal tauchen wir gemeinsam ein in die Welt der Künstlichen Intelligenz und ziehen Bilanz: Was haben wir gelernt, was hat uns bewegt – und vor allem: Wie geht es weiter?
 
